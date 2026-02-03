@@ -15,8 +15,7 @@
 ---
 
 ### About
-I build tools, systems, and experiments while learning how software really works.  
-Focused on **Python, C++ and Rust** with interest in backend and blockchain.
+ Focused on **Python, C++ and Rust** with interest in backend and blockchain.
 
 ---
 
