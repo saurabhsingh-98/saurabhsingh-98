@@ -41,5 +41,5 @@ Focused on **Python, C++ and Rust** with interest in backend and blockchain.
 ---
 
 <p align="center">
-  <sub>“Quiet code. Loud impact.”</sub>
+  <sub>“.....”</sub>
 </p>
