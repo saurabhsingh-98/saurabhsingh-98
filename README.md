@@ -15,7 +15,7 @@ Learning by building.
 
 ### Tech
 <p>
-<img src="https://skillicons.dev/icons?i=python,cpp,rust,git,github,linux" />
+<img src="https://skillicons.dev/icons?i=python,rust,git,github" />
 </p>
 
 
